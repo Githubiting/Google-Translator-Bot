@@ -1,21 +1,3 @@
-Skip to content
-coder2077
-/
-iTranslator-bot
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-GoogleTranslator-bot/Bot/buttons.py
-@coder2077
-coder2077 Add files via upload
- 1 contributor
-63 lines (44 sloc)  1.64 KB
 '''
 ©️ 2021. Contact(Telegram): @hellodarklord
 '''
